@@ -1,14 +1,14 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Structural approach to the deep learning method
+title: Презентация по лабораторной работе 3
 author: |
 	Mikhail E. Morozov\inst{1}
-	\and
+	
 	
 institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
-date: NEC--2022, 30 April -- 30 April , 2022 Moscow, Russia
+date: 30 April , 2022 Moscow, Russia
 ## Formatting
 toc: false
 slide_level: 2
