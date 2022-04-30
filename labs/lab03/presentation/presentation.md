@@ -72,4 +72,3 @@ section-titles: true
 
 ## {.standout}
 
-Wer's nicht glaubt, bezahlt einen Taler
