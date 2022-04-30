@@ -9,7 +9,7 @@ author: |
 institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
 	
-date: 30 April -- 4 October, 2022 Moscow, Russian Federation
+date: 30 April , 2022 Moscow, Russian Federation
 
 ## Formatting
 toc: false
