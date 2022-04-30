@@ -179,53 +179,55 @@ header-includes:
 
 2)После ввода команд в терминал начинается выполнения скрипта , устанавливаем gh в Fedora Linux для дальнейшей работы 
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+![2](image/Рисунок2.png){ #fig:002 width=70% }
 
 3)Далее переходим к базовой настройке git
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+![3](image/Рисунок3.png){ #fig:003 width=70% }
 
 4-5)Генерируем ключ ssh
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+![4](image/Рисунок4.png){ #fig:004 width=70% }
+
+![5](image/Рисунок5.png){ #fig:005 width=70% }
 
 6-7-8)Переходим к созданию pgp ключей по формату согласно методическим материалам (RSA,4096,never/name,mail)
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+![6](image/Рисунок6.png){ #fig:006 width=70% }
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+![7](image/Рисунок7.png){ #fig:007 width=70% }
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+![8](image/Рисунок8.png){ #fig:008 width=70% }
 
 9-10)Связываем PGP ключ и свой аккаунт GitHUb
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+![9](image/Рисунок9.png){ #fig:009 width=70% }
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+![10](image/Рисунок10.png){ #fig:0010 width=70% }
 
 11)Настройка автоматических подписей коммитов git
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+![11](image/Рисунок11.png){ #fig:0011 width=70% }
 
 12-13)Настройка gh и авторизация GitHub через браузер
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+![12](image/Рисунок12.png){ #fig:0012 width=70% }
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+![13](image/Рисунок13.png){ #fig:0013 width=70% }
 
 14-15)Генерация SSH ключа и подключение этого ключа к своему аккаунту GitHub
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+![14](image/Рисунок14.png){ #fig:0014 width=70% }
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+![15](image/Рисунок15.png){ #fig:0015 width=70% }
 
 16)Производим настройку репозитория всего курса с помощью команд описаных в методическом материале 
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+![16](image/Рисунок16.png){ #fig:0016 width=70% }
 
 17)Настраиваем каталог круса
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+![17](image/Рисунок17.png){ #fig:0017 width=70% }
 
 # Выводы
 
