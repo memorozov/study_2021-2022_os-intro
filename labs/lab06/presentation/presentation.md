@@ -3,12 +3,13 @@
 lang: ru-RU
 title: Поиск файлов. Перенаправление ввода-вывода. Просмотр запущенных процессов
 author: |
-	Михаил Евгеньевич Морозов\inst{1}
-	
+	Михаил Евгеньевич Морозов{1}
 institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
 	
-date:7 May, 2022 Moscow, Russian Federation
+date: 7 May , 2022  Moscow, Russian Federation
+	
+
 ## Formatting
 toc: false
 slide_level: 2
