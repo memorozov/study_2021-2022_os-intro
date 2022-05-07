@@ -9,7 +9,6 @@ institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
 	
 date:7 May, 2022 Moscow, Russian Federation
-
 ## Formatting
 toc: false
 slide_level: 2
